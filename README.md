@@ -15,5 +15,4 @@ Ime fajla `naziv-cena` (npr. `srebrni-prsten-2600`) → naziv i cena.
 ## Porudžbine
 - E-mail: misicv89@gmail.com (FormSubmit) — kupac dobija automatsku potvrdu na svoj e-mail
 - Prva porudžbina: FormSubmit šalje aktivacioni mejl na misicv89@gmail.com — kliknite „Activate Form" i od tada sve radi
-- Viber: +381641138946
 - Instagram: https://www.instagram.com/cilibar_srebrni_nakit_kg/

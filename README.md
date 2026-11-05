@@ -13,6 +13,7 @@ Slike i cene se učitavaju automatski sa Cloudinary-ja (tag `novembar2026`).
 Ime fajla `naziv-cena` (npr. `srebrni-prsten-2600`) → naziv i cena.
 
 ## Porudžbine
-- E-mail: preko Web3Forms (ključ je već ubačen)
+- E-mail: misicv89@gmail.com (FormSubmit) — kupac dobija automatsku potvrdu na svoj e-mail
+- Prva porudžbina: FormSubmit šalje aktivacioni mejl na misicv89@gmail.com — kliknite „Activate Form" i od tada sve radi
 - Viber: +381641138946
 - Instagram: https://www.instagram.com/cilibar_srebrni_nakit_kg/

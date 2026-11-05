@@ -1,6 +1,6 @@
 # Čilibar – Srebrni Nakit
 
-Online prodavnica (jedna stranica `index.html`).
+Online prodavnica: jedna stranica `index.html`, ista za desktop i mobilni (prilagođava se širini ekrana).
 
 ## Objava na GitHub Pages
 1. Napravite novi repozitorijum na github.com (npr. `cilibar-shop`), javni.
@@ -13,5 +13,6 @@ Slike i cene se učitavaju automatski sa Cloudinary-ja (tag `novembar2026`).
 Ime fajla `naziv-cena` (npr. `srebrni-prsten-2600`) → naziv i cena.
 
 ## Porudžbine
-- E-mail: misicv89@gmail.com (FormSubmit – prvi put potvrdite aktivacioni mejl, proverite Spam)
+- E-mail: preko Web3Forms (ključ je već ubačen)
 - Viber: +381641138946
+- Instagram: https://www.instagram.com/cilibar_srebrni_nakit_kg/
